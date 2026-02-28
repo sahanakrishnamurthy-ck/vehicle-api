@@ -1,4 +1,8 @@
-Vehicle API for Connected Vehicles:
+Collaborative project developed for Vehicle API for Connected Vehicles.
+
+Original repository by Bhushan-Bhad.
+
+This fork represents my contribution and portfolio version.
 
 This project was developed during an Innovation Sprint at Vector Tech Playground, organized by Vector Informatik with the support of NXTGN.
 
